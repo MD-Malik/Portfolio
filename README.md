@@ -37,11 +37,11 @@ Start
 
 ## Snapshots 📷
 
-![](https://github.com/MD-Malik/Portfolio/blob/master/src/images/portfolio_image1.png?raw=true)
+![](https://github.com/MD-Malik/Portfolio/blob/main/src/images/portfolio_image1.png?raw=true)
 
-![](https://github.com/MD-Malik/Portfolio/blob/master/src/images/portfolio_image1.png?raw=true)
+![](https://github.com/MD-Malik/Portfolio/blob/main/src/images/portfolio_image1.png?raw=true)
 
-![](https://github.com/MD-Malik/Portfolio/blob/master/src/images/portfolio_image1.png?raw=true)
+![](https://github.com/MD-Malik/Portfolio/blob/main/src/images/portfolio_image1.png?raw=true)
 ## Demo 🎥
 
 Deployed Link: [Portfolio Link](https://portfoliomohdshahrukh.netlify.app/)
