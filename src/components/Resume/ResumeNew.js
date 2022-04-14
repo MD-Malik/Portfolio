@@ -21,7 +21,6 @@ function ResumeNew() {
   return (
     <div>
       <Container fluid className="resume-section">
-        <Particle />
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
@@ -51,6 +50,7 @@ function ResumeNew() {
             &nbsp;Download CV
           </Button>
         </Row>
+        <Particle />
       </Container>
     </div>
   );

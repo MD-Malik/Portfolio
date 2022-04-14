@@ -8,7 +8,6 @@ import Ecommerce from "../../Assets/Projects/ecommerce.png";
 function Projects() {
   return (
     <Container fluid className="project-section">
-      <Particle />
       <Container>
         <h1 className="project-heading">
           My Recent <strong className="purple">Works </strong>
@@ -23,7 +22,8 @@ function Projects() {
               isBlog={false}
               title="Travel Website"
               description="Adventures is the go-to source for information on adventure travel that prioritizes sustainability, serves as a force for good, and transforms people and places."
-              link="https://travel-adventure-shahrukh.netlify.app/"
+              link1="https://travel-adventure-shahrukh.netlify.app/"
+              link2="https://github.com/MuskanIss/ConstructWeek_Adventure"
             />
           </Col>
 
@@ -32,12 +32,14 @@ function Projects() {
               imgPath={Ecommerce}
               isBlog={false}
               title="Ecommerce Website"
-              description="This Project is the clone of ecommerce health and wellnes Website netmeds.com build with HTML5, CSS3, and JavaScript."
-              link="https://netmeds-ecommerce.netlify.app"
+              description="This Project is the clone of ecommerce health and wellnes Website netmeds.com build with HTML5, CSS3, and JavaScript and used a json-server for fetching data."
+              link1="https://netmeds-ecommerce.netlify.app"
+              link2="https://github.com/Harsh-R-16/Netmeds-Clone"
             />
           </Col>
         </Row>
       </Container>
+      <Particle />
     </Container>
   );
 }

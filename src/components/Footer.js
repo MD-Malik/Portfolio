@@ -28,16 +28,7 @@ function Footer() {
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <AiFillGithub />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="#"
-                style={{ color: "white" }} 
-                rel="noopener noreferrer"
-              >
-                <AiOutlineTwitter />
+                <AiFillGithub/>
               </a>
             </li>
             <li className="social-icons">
@@ -48,15 +39,6 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="#"
-                style={{ color: "white" }} 
-                rel="noopener noreferrer"
-              >
-                <AiFillInstagram />
               </a>
             </li>
           </ul>
