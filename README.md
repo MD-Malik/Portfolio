@@ -1,6 +1,6 @@
 # Portfolio 🌇
 
-My Portfolio - Portfolio to showcase skills I have, toolset I use and projects I buit along with my personal information.
+My Portfolio - Portfolio to showcase skills I have, toolset I use and projects I built along with my personal information.
 
 
 ## Tech Stack Used 👩‍💻
