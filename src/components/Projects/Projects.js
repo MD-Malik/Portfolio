@@ -37,6 +37,18 @@ function Projects() {
               link2="https://github.com/Harsh-R-16/Netmeds-Clone"
             />
           </Col>
+
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath="https://raw.githubusercontent.com/Upendra-99/Quora-Clone/master/quora-website/src/images/quora_image1.png"
+              isBlog={false}
+              title="Social Media Website"
+              description="This Project is the clone of social media website named quora.com build with HTML5, CSS3, JavaScript, react, redux, nodejs, express, and mongoDB."
+              link1="https://quoraclonewebsite.netlify.app/"
+              link2="https://github.com/Upendra-99/Quora-Clone"
+            />
+          </Col>
         </Row>
       </Container>
       <Particle />

@@ -5,7 +5,6 @@ import {
   SiVisualstudiocode,
   SiPostman,
   SiHeroku,
-  SiVercel,
   SiGithub,
   SiBootstrap,
   SiMaterialui,
@@ -13,7 +12,9 @@ import {
   SiNpm,
   SiAnydesk,
   SiStyledcomponents,
-  SiBabel
+  SiBabel,
+  SiNetlify,
+  SiReplit
 } from "react-icons/si";
 
 function Toolstack() {
@@ -27,9 +28,6 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostman />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiHeroku />
@@ -57,6 +55,12 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiBabel />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiNetlify />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiReplit />
       </Col>
     </Row>
   );

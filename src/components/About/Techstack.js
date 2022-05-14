@@ -6,7 +6,6 @@ import {
   DiReact,
   DiNodejs,
   DiMongodb,
-  DiPython,
   DiGit,
   DiW3C,
   DiGithub,
@@ -14,12 +13,14 @@ import {
   DiCss3
 } from "react-icons/di";
 import {
-  SiPytorch,
   SiFirebase,
-  SiNextdotjs,
   SiRedux,
   SiReactrouter,
-  SiJson
+  SiJson,
+  SiJsonwebtokens,
+  SiExpress,
+  SiPassport,
+  SiLinkedin
 } from "react-icons/si";
 
 function Techstack() {
@@ -55,6 +56,27 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiJson />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiJsonwebtokens />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiMongodb />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFirebase />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiNodejs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiExpress />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPassport />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiLinkedin />
       </Col>
     </Row>
   );

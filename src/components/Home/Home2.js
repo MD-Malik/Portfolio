@@ -47,6 +47,8 @@ function Home2() {
               &nbsp; like
               <i>
                 <b className="purple"> React.js </b>
+                and Backend Libraries and Frameworks like <b className="purple">Express,</b> 
+                <b className="purple"> MongoDB,</b> and <b className="purple">mongoose.</b>
               </i>
             </p>
           </Col>
