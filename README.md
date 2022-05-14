@@ -1,6 +1,6 @@
 # Portfolio 🌇
 
-My Portfolio - Portfolio to showcase skills I have, toolset I use and projects I buit along with my personal information.
+My Portfolio - Portfolio to showcase skills I have, toolset I use and projects I built along with my personal information.
 
 
 ## Tech Stack Used 👩‍💻
@@ -39,9 +39,13 @@ Start
 
 ![](https://github.com/MD-Malik/Portfolio/blob/main/src/images/portfolio_image1.png?raw=true)
 
-![](https://github.com/MD-Malik/Portfolio/blob/main/src/images/portfolio_image1.png?raw=true)
+![](https://github.com/MD-Malik/Portfolio/blob/main/src/images/portfolio_image5.png?raw=true)
 
-![](https://github.com/MD-Malik/Portfolio/blob/main/src/images/portfolio_image1.png?raw=true)
+![](https://github.com/MD-Malik/Portfolio/blob/main/src/images/portfolio_image2.png?raw=true)
+
+![](https://github.com/MD-Malik/Portfolio/blob/main/src/images/portfolio_image3.png?raw=true)
+
+![](https://github.com/MD-Malik/Portfolio/blob/main/src/images/portfolio_image4.png?raw=true)
 ## Demo 🎥
 
 Deployed Link: [Portfolio Link](https://portfoliomohdshahrukh.netlify.app/)
