@@ -49,6 +49,18 @@ function Projects() {
               link2="https://github.com/Upendra-99/Quora-Clone"
             />
           </Col>
+
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath="https://github.com/MD-Malik/Imgur_Clone/blob/main/images/imgur1.PNG?raw=true"
+              isBlog={false}
+              title="Image searching website"
+              description="This Project is the clone of imgur.com website which is a image and memes sharing plateform build with HTML5, CSS3, JavaScript."
+              link1="https://imgurcloneshahrukhmalik.netlify.app/"
+              link2="https://github.com/MD-Malik/Imgur_Clone"
+            />
+          </Col>
         </Row>
       </Container>
       <Particle />
