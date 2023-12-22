@@ -45,8 +45,8 @@ function Projects() {
               isBlog={false}
               title="Social Media Website"
               description="This Project is the clone of social media website named quora.com build with HTML5, CSS3, JavaScript, react, redux, nodejs, express, and mongoDB."
-              link1="https://quoraclonewebsite.netlify.app/"
-              link2="https://github.com/Upendra-99/Quora-Clone"
+              link1="https://quora-clone-v2.onrender.com/"
+              link2="https://github.com/MD-Malik/Quora-Clone"
             />
           </Col>
 
