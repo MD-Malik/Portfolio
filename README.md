@@ -45,7 +45,6 @@ Start
 
 ![](https://github.com/MD-Malik/Portfolio/blob/main/src/images/portfolio_image3.png?raw=true)
 
-![](https://github.com/MD-Malik/Portfolio/blob/main/src/images/portfolio_image4.png?raw=true)
 ## Demo 🎥
 
 Deployed Link: [Portfolio Link](https://mohd-shahrukh.onrender.com/)
