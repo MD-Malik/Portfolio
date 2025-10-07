@@ -48,7 +48,7 @@ Start
 ![](https://github.com/MD-Malik/Portfolio/blob/main/src/images/portfolio_image4.png?raw=true)
 ## Demo 🎥
 
-Deployed Link: [Portfolio Link](https://portfoliomohdshahrukh.netlify.app/)
+Deployed Link: [Portfolio Link](https://mohd-shahrukh.onrender.com/)
 
 
 ## Author 🤝
